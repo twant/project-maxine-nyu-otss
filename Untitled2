@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>A-Frame Solar System Lab</title>
+    </head>
+    <body>
+      <a-scene>
+            <a-assets>
+                <img src="images/aquarium" id="aquariumTexture">
+            </a-assets>
+            <a-sky src="#aquariumTexture"></a-sky>
+        </a-scene>
+    </body>
+</html>
